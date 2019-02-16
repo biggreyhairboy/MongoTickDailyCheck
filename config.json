@@ -1,4 +1,8 @@
 {
-  "MONGO_HOST": "119.3.10.19",
-  "MONGO_PORT": 27017
+  "MONGO_HOST":        "119.3.10.169",
+  "MONGO_PORT":        27017,
+  "symbol":            "rb1905",
+  "tradingyear":       2019,
+  "tradingmonth":      2,
+  "tradingday":        14
 }
