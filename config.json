@@ -1,4 +1,4 @@
 {
-  "MONGO_HOST": "localhost",
+  "MONGO_HOST": "119.3.10.19",
   "MONGO_PORT": 27017
 }
